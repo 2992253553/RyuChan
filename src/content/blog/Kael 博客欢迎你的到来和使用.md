@@ -1,7 +1,7 @@
 ---
 title: Kael 博客欢迎你的到来和使用
 description: 这是一篇测试文章
-pubDate: 2025-12-06
+pubDate: 2024-6-06
 image: "/image/20131106134456_V8zJv.png"
 categories:
   - text
