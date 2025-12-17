@@ -1,7 +1,7 @@
 ---
 title: Markdown 样式指南
 description: 以下是一个在Astro中编写Markdown内容时可以使用的部分基本Markdown语法示例
-pubDate: 2025-12-05
+pubDate: 2024-7-09
 image: "/image/2013110613.jpg"
 categories:
   - Astro魔改
