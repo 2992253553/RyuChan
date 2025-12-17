@@ -1,7 +1,7 @@
 ---
 title: 在Markdown中测试数学公式
 description: 使用 LaTeX 在 Markdown 中渲染的各种数学公式的演示
-pubDate: 2025-12-06
+pubDate: 2024-7-06
 image: "/image/be0cf6.jpeg"
 categories:
   - Astro魔改
