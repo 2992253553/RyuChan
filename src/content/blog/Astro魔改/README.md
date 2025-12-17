@@ -1,7 +1,7 @@
 ---
 title: READ ME
 description: 这是一篇关于 Kael 博客的介绍和安装使用方法
-pubDate: 2025-12-06
+pubDate: 2024-7-06
 image: "/image/ef5ff4d94a91.jpeg"
 categories:
   - Astro魔改
